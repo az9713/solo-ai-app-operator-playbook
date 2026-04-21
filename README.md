@@ -12,7 +12,7 @@ The video covers eight startups built by non-developers using AI tools — Medv,
 
 ## About the Playbook
 
-The playbook was created by **ChatGPT o3 (Thinking)** by distilling the lessons learned from the eight startups featured in the video. It compresses recurring patterns across those case studies into a structured, actionable framework for solo AI app builders.
+The playbook was created by **ChatGPT 5.4 Thinking** by distilling the lessons learned from the eight startups featured in the video. It compresses recurring patterns across those case studies into a structured, actionable framework for solo AI app builders.
 
 ## What's Inside
 
